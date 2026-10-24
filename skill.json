@@ -1,0 +1,11 @@
+{
+  "name": "genpark-ast-mutation-testing-and-test-suite-strength-analyzer-skill",
+  "version": "1.0.0",
+  "description": "Mutates AST operators and boolean conditions to evaluate test suite mutation kill rates and boundary rigor",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
